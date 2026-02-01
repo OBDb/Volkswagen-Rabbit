@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Golf"
+
 generations:
   - name: "First Generation (A1)"
     start_year: 1975
